@@ -1,0 +1,123 @@
+.tong{
+    width: 980px;
+    margin: auto;
+}
+.logo{
+height: 100px;
+background-color: orangered;
+}
+.logo img {
+    float: left;
+    padding-left: 25px;
+    padding-top: 20px;
+    width: 120px;
+    height: 70px;
+}
+form{
+    float: right;
+    padding-top: 35px;
+}
+button{
+    background-color: blue;
+    color: white;
+}
+.banner{
+    height: 450px;
+}
+.banner img{
+    width: 100%;
+    height: 100%;
+    padding-top: 10px;
+}
+.menu{
+    height: 35px;
+    background-color: orange;
+}
+.menu ul li{
+    list-style: none;
+    float: left;
+    padding-left: 50px;
+    line-height: 35px;
+
+   
+}
+.menu ul li a {
+    text-decoration: none;
+    color: white;
+    margin: 0 15px 0 15px;
+}
+.menu > ul > li > a :hover {
+    background-color: black;
+}
+.td{
+    text-align: center; 
+    margin-top: 20px;
+    
+
+}
+.td h2 {
+    color: aqua;
+}
+.new1{
+    width: 305px;
+    height: 360px;
+    border: 0.5px solid blue;
+    float: left;
+    /* margin-top: 15px; */
+}
+.new1 img{
+    width: 100px;
+    height: 80px;
+    margin-left: 10px;
+    margin-top: 20px;
+    
+}
+.new1 h4  {
+  color: aqua; 
+   
+   
+}
+.new2{
+    width: 305px;
+    height: 360px;
+    border: 0.5px solid blue;
+    float: left;
+    /* margin-top: 15px; */
+    margin-left: 28px;
+
+}
+.new2 img{
+    width: 100px;
+    height: 80px;
+    margin-left: 10px;
+    margin-top: 20px;
+    
+}
+.new2 h4  {
+  color: aqua; 
+}
+.new3{
+    width: 305px;
+    height: 360px;
+    border: 0.5px solid blue;
+    float: left;
+    /* margin-top: 15px; */
+    margin-left: 30px;
+
+}
+.new3 img{
+    width: 100px;
+    height: 80px;
+    margin-left: 10px;
+    margin-top: 20px;
+    
+}
+.new3 h4  {
+  color: aqua; 
+}
+footer{
+   height: 50px;
+   text-align: center;
+   background-color: orange;
+   width: 976px;
+}
